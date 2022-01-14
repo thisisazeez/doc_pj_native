@@ -6,7 +6,8 @@
     "privacy": "unlisted",
     "platforms": [
       "ios",
-      "android"
+      "android",
+      "web"
     ],
     "version": "1.8.0",
     "orientation": "portrait",
